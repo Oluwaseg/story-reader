@@ -21,7 +21,7 @@ This project is a web-based application that allows users to create, read, edit,
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/story-reader.git
+   git clone https://github.com/Oluwaseg/story-reader.git
    cd story-reader
    ```
 
